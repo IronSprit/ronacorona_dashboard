@@ -7,3 +7,6 @@ pip3 install --user send2trash
 # 실행
 
 python -m notebook
+
+#dash 오류시
+pip install -U --user dash
